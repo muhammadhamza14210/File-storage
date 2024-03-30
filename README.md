@@ -1,3 +1,6 @@
+## Project
+Full Stack File storage appication which uses NextJs, TypeScript, ShadCn, Convex, Clerk (for authentication)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
